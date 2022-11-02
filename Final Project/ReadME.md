@@ -10,3 +10,8 @@ MONGO_HOST=
 MONGO_DB=
 JWT_SECRET=
 ```
+
+
+
+
+dont forget npm i for modules
