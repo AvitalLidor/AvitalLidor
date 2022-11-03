@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lidor Avital
-- 👀 I’m interested in A Fullstack developer Job
+- 👀 I’m interested in Fullstack developer Job
 - 🌱 I’m currently learning at HackerU 
 - 📫 How to reach me : avitallidor8@gmail.com
 
