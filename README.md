@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Lidor Avital
+- Im learning b.sc information systems.
 - 👀 I’m interested in Fullstack developer positions
-- 🌱 I’m currently learning at HackerU 
+- 🌱 I’m currently learning at Academic Tel Aviv Yafo. 
 - 📫 How to reach me : avitallidor8@gmail.com
 
 <!---
